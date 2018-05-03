@@ -1,0 +1,15 @@
+{
+  "name": "whitelist",
+  "version": "1.0.0",
+  "description": "Demo showing dynamic manifest file",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose Cherian",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "hbs": "^4.0.1"
+  }
+}
